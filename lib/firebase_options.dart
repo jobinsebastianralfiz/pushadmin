@@ -56,16 +56,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCneClEfU3UaIB1tcnid1fEqFml4Hjkwx0',
-    appId: '1:993531762259:android:7d69f87ed1b03c307058a6',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '993531762259',
     projectId: 'pushnotify-db0c9',
     storageBucket: 'pushnotify-db0c9.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDjNP_xqLZPYLVNIzHysn2P3TXv6yRhWsg',
-    appId: '1:993531762259:ios:db5060f7630fce4e7058a6',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '993531762259',
     projectId: 'pushnotify-db0c9',
     storageBucket: 'pushnotify-db0c9.appspot.com',
