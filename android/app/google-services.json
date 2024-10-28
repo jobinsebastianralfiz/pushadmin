@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993531762259",
+    "project_id": "pushnotify-db0c9",
+    "storage_bucket": "pushnotify-db0c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993531762259:android:7d69f87ed1b03c307058a6",
+        "android_client_info": {
+          "package_name": "com.ralfiz.pushadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCneClEfU3UaIB1tcnid1fEqFml4Hjkwx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
